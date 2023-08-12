@@ -1,6 +1,6 @@
 # Análise de Dados de Mercado
 
-Este notebook foi gerado automaticamente pelo Colaboratory.
+Este codigo foi feito em um Notebook gerado no Colaboratory.
 
 O arquivo original pode ser encontrado em:
 https://colab.research.google.com/drive/1XhEBDRof7coqSHqrUtAzglfNSIlTDK6d
